@@ -5,8 +5,7 @@ arithmetic operations and is designed as a simple demonstration project
 for learning Git and GitHub workflows (branching, merging, and conflict
 resolution).
 
-**Features:** Addition, Subtraction, Multiplication
-
+**Features:** Addition, Subtraction, Multiplication, Division
 ## Requirements
 
 - Python 3.8 or later
