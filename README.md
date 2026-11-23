@@ -5,7 +5,7 @@ arithmetic operations and is designed as a simple demonstration project
 for learning Git and GitHub workflows (branching, merging, and conflict
 resolution).
 
-**Features:** Addition, Subtraction
+**Features:** Addition, Subtraction, Multiplication
 
 ## Requirements
 
